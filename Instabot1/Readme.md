@@ -1,4 +1,4 @@
-#### In this part following tasks are performed\
+#### In this part following tasks are performed
 1.Logging in The Account by passing Username and Password\
 2.Searching all the relevant pages by a Keyword\
 3.Opening a particular profile\
